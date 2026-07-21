@@ -55,20 +55,20 @@ Welcome to my GitHub Profile 🚀
 
 ## 💎 About Me
 
-```ts
-const farabi = {
-  role: "Full Stack Developer",
-  frontend: ["React", "Next.js", "Tailwind"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB", "MySQL"],
-  automation: ["n8n", "OpenAI"],
-  learning: "Advanced Backend"
-};
-```
+- 💻 Full Stack Developer
+- 💻 App Developer
+- ⚛️ React & Next.js Developer
+- 🚀 Node.js & Express.js
+- 🗄️ MongoDB & MySQL
+- 🤖 AI Automation Enthusiast
+- 🌐 WordPress Developer
+- 📈 SEO & Analytics
+- 🌱 Currently Learning **Advanced Backend**
+- 🎯 Goal: Build Modern & Scalable Web Applications
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Farabiam&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farabiam&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Farabiam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farabiam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
