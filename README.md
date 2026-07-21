@@ -78,3 +78,105 @@ Welcome to my GitHub Profile 🚀
 </a>
 
 </p>
+
+
+
+
+<br>
+
+<h2 align="center"> About Me</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="48%" valign="top">
+
+```ts
+const developer = {
+    name: "Tanvir Al Farabi",
+    role: "Full Stack Developer",
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
+
+    database: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    automation: [
+        "n8n",
+        "Make",
+        "OpenAI"
+    ],
+
+    wordpress: true,
+
+    seo: true,
+
+    currentlyLearning: "Advanced Backend",
+
+    motto: "Build Beautiful Things ✨"
+}
+```
+
+</td>
+
+<td width="52%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Farabiam&show_icons=true&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Farabiam&theme=transparent&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+
+## 🍎 Current Focus
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Building Beautiful Web Apps
+
+⚛ Learning Advanced MERN
+
+🤖 AI Automation
+
+🌐 Modern UI Design
+
+📱 Apple Inspired Interfaces
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge"/>
+
+</p>
