@@ -26,7 +26,7 @@ Welcome to my GitHub Profile 🚀
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Tanvir%20Al%20Farabi&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Automation&descAlignY=58"/>
 </p>
 
-<h2 align="center"> Welcome to My GitHub</h2>
+<h2 align="center">Welcome to My GitHub</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js;Node.js+%7C+Express;AI+Automation+Builder;Always+Building+Cool+Things+🚀"/>
