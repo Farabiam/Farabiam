@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;AI+Automation+Developer;WordPress+Developer;SEO+Expert"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Node.js+Developer;AI+Automation+Developer;WordPress+Designer;SEO+Expert;Web+Analytics+Expert"/>
 
 </p>
 
